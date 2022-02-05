@@ -38,18 +38,293 @@ Next we deal with the very important issues involved involved in trying to build
 Class Schedule
 --------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} The critical role of technology-based, disruptive innovations to a business {{< br >}}{{< br >}} The IBM near-death experience of the early 1990s {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gerstner, Louis V. _Who Says Elephants Can't Dance_. Part II; part I optional. {{< br >}}{{< br >}} Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapter 1. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Strategy formulation - key external factors {{< br >}}{{< br >}} Initial discussion of class project {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 2 and 8. {{< br >}}{{< br >}} Henderson, Rebecca. "Architectural Innovation." {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Strategy formulation - the internet and the Web as major disruptive forces {{< br >}}{{< br >}} Coming up with the IBM internet strategy {{< br >}}{{< br >}} The future of the internet {{< br >}}{{< br >}} {{< h 3 >}}Guest lecturer{{< /h >}} {{< br >}}{{< br >}} John Patrick - President, Attitude LLC; Internet Pioneer; retired IBM executive {{< br >}}{{< br >}}  | Hamel, Gary. "Waking Up IBM." |
-| 4 | Strategy formulation - key internal factors |  {{< br >}}{{< br >}} Christiansen, Clay. _Meeting the Challenge of Disruptive Change_. {{< br >}}{{< br >}} Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 3 and 4. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Operationalizing the Strategy - key internal factors {{< br >}}{{< br >}} Market and application segmentation, internal measurements, management reviews {{< br >}}{{< br >}}  | Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 5 and 6. |
-| 6 |  {{< br >}}{{< br >}} Operationalizing the Strategy - Key external factors {{< br >}}{{< br >}} Major role of market experimentation and end-user innovation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} von Hippel, Eric. _Democratizing Innovation_. Chapters 1, 2, 3, 4; other chapters optional. {{< br >}}{{< br >}} Thomke, Stefan. "Enlightened Experimentation." {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Overview of course so far {{< br >}}{{< br >}} Mid-term discussion of class projects based on team submission of short (2 page) proposal {{< br >}}{{< br >}}  |  |
-| 8 |  {{< br >}}{{< br >}} Market-based experimentation as a major part of strategy formulation and execution {{< br >}}{{< br >}} LL Bean and e-commerce strategy {{< br >}}{{< br >}} LL Bean and technology-based innovation {{< br >}}{{< br >}} {{< h 3 >}}Guest lecturer{{< /h >}} {{< br >}}{{< br >}} Chris McCormick - CEO, LL Bean; e-commerce pioneer {{< br >}}{{< br >}}  |  |
-| 9 |  {{< br >}}{{< br >}} The major role of marketing and communications in strategy formulation and execution {{< br >}}{{< br >}} The IBM e-business marketing and communications strategy {{< br >}}{{< br >}} {{< h 3 >}}Guest lecturer{{< /h >}} {{< br >}}{{< br >}} Chris Wall - Senior Partner, Ogilvy and Mather; lead O&M executive in formulating IBM's e-business market strategy {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} "Dinosaurs?" _Fortune_ 127, no. 9 (May 3, 1993). {{< br >}}{{< br >}} "IBM Means e-business." _Information Week_, February 9, 1998. {{< br >}}{{< br >}} "Internet Business Machines." _Business Week e.biz_, December 13, 1999. {{< br >}}{{< br >}}  |
-| 10 | Organization and cultural issues - building and managing a virtual organization |  {{< br >}}{{< br >}} Henderson, Rebecca. "Managing Innovation in the Information Age." {{< br >}}{{< br >}} Nadler and Tushman. "Beyond the Charismatic Leader." {{< br >}}{{< br >}} Leonard Barton, Dororthy. _Core Capabilities and Core Rigidities_. (Optional) {{< br >}}{{< br >}}  |
-| 11 | Organization and cultural issues - key role of leadership and management |  {{< br >}}{{< br >}} Gerstner, Louis V. _Who Says Elephants Can't Dance_. Parts III and IV; part V optional. {{< br >}}{{< br >}} Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 7, 10, and epilogue. {{< br >}}{{< br >}}  |
-| 12 | Class project presentations and discussions |  |
-| 13 |  {{< br >}}{{< br >}} Class project presentations and discussions (cont.) {{< br >}}{{< br >}} Final overall discussions {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The critical role of technology-based, disruptive innovations to a business
+
+The IBM near-death experience of the early 1990s
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gerstner, Louis V. _Who Says Elephants Can't Dance_. Part II; part I optional.
+
+Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapter 1.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Strategy formulation - key external factors
+
+Initial discussion of class project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 2 and 8.
+
+Henderson, Rebecca. "Architectural Innovation."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Strategy formulation - the internet and the Web as major disruptive forces
+
+Coming up with the IBM internet strategy
+
+The future of the internet
+
+### Guest lecturer
+
+John Patrick - President, Attitude LLC; Internet Pioneer; retired IBM executive
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hamel, Gary. "Waking Up IBM."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy formulation - key internal factors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Christiansen, Clay. _Meeting the Challenge of Disruptive Change_.
+
+Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 3 and 4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Operationalizing the Strategy - key internal factors
+
+Market and application segmentation, internal measurements, management reviews
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 5 and 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Operationalizing the Strategy - Key external factors
+
+Major role of market experimentation and end-user innovation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+von Hippel, Eric. _Democratizing Innovation_. Chapters 1, 2, 3, 4; other chapters optional.
+
+Thomke, Stefan. "Enlightened Experimentation."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview of course so far
+
+Mid-term discussion of class projects based on team submission of short (2 page) proposal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Market-based experimentation as a major part of strategy formulation and execution
+
+LL Bean and e-commerce strategy
+
+LL Bean and technology-based innovation
+
+### Guest lecturer
+
+Chris McCormick - CEO, LL Bean; e-commerce pioneer
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The major role of marketing and communications in strategy formulation and execution
+
+The IBM e-business marketing and communications strategy
+
+### Guest lecturer
+
+Chris Wall - Senior Partner, Ogilvy and Mather; lead O&M executive in formulating IBM's e-business market strategy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Dinosaurs?" _Fortune_ 127, no. 9 (May 3, 1993).
+
+"IBM Means e-business." _Information Week_, February 9, 1998.
+
+"Internet Business Machines." _Business Week e.biz_, December 13, 1999.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Organization and cultural issues - building and managing a virtual organization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Henderson, Rebecca. "Managing Innovation in the Information Age."
+
+Nadler and Tushman. "Beyond the Charismatic Leader."
+
+Leonard Barton, Dororthy. _Core Capabilities and Core Rigidities_. (Optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Organization and cultural issues - key role of leadership and management
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gerstner, Louis V. _Who Says Elephants Can't Dance_. Parts III and IV; part V optional.
+
+Christiansen, Clay, and Michael Raynor. _Innovator's Solution_. Chapters 7, 10, and epilogue.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Class project presentations and discussions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class project presentations and discussions (cont.)
+
+Final overall discussions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
